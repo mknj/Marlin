@@ -1,6 +1,12 @@
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
+#
+
+Changes for my Creality CR-10s
+
+see also https://printedsolid.com/blogs/news/installing-marlin-1-1-6-on-your-cr-10s-with-mesh-bed-leveling
+
 ## Marlin 1.1
 
 Marlin 1.1 represents an evolutionary leap over Marlin 1.0.2. It is the result of over two years of effort by several volunteers around the world who have paid meticulous and sometimes obsessive attention to every detail. For this release we focused on code quality, performance, stability, and overall user experience. Several new features have also been added, many of which require no extra hardware.
